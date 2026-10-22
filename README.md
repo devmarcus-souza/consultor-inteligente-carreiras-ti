@@ -68,3 +68,7 @@ Use os perfis abaixo na interface e compare o resultado com o esperado. A recome
 - As regras e pontuações representam uma base de conhecimento inicial e podem ser ajustadas conforme testes com usuários.
 - A pontuação é uma forma simples de comparar evidências; ela não representa uma avaliação psicológica ou garantia de carreira.
 - A biblioteca Experta é antiga e pode apresentar incompatibilidades com versões recentes de Python. Se a instalação falhar, tente Python 3.10 em um ambiente virtual e consulte a documentação da biblioteca.
+
+  ## Prints
+  <img width="1349" height="572" alt="Persona perfil analítico" src="https://github.com/user-attachments/assets/49e2a63a-5b01-4e71-8212-37ff3bd07804" />
+ 
