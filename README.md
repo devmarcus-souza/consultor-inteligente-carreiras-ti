@@ -70,5 +70,10 @@ Use os perfis abaixo na interface e compare o resultado com o esperado. A recome
 - A biblioteca Experta é antiga e pode apresentar incompatibilidades com versões recentes de Python. Se a instalação falhar, tente Python 3.10 em um ambiente virtual e consulte a documentação da biblioteca.
 
   ## Prints
-  <img width="1349" height="572" alt="Persona perfil analítico" src="https://github.com/user-attachments/assets/49e2a63a-5b01-4e71-8212-37ff3bd07804" />
+<img width="1349" height="572" alt="Apresentação-tela inicial" src="https://github.com/user-attachments/assets/0d98ea72-9120-4b54-a62a-4b4b15476043" />
+<img width="1349" height="572" alt="Persona perfil analítico-escolha opções" src="https://github.com/user-attachments/assets/4757b05e-99db-4091-be7c-e5ca36c3d6a8" />
+<img width="1349" height="572" alt="Persona perfil analítico - trilha recomendada" src="https://github.com/user-attachments/assets/adc5d2a7-3ed9-4f74-8ded-4df7c586b8fd" />
+
+
+
  
